@@ -8,7 +8,7 @@ int main()
 	sum=sum+o;
 	o=o+2;
 	}
-	while(o<=19);
+	while(o<=10);
 	cout<<"Sum = "<<sum;
 	getch();
 }
